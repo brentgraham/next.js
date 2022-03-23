@@ -66,4 +66,4 @@ This blog-starter uses [Tailwind CSS](https://tailwindcss.com) [(v3.0)](https://
 
 # Test
 
-this is a test commit
+This is a test commit. Another test
